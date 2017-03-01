@@ -1,4 +1,4 @@
-# Gender Classification of Figurines
+#Gender Classification of Figurines
 
 Universität zu Köln <br>
 Historisch-Kulturwissenschaftliche Informationsverarbeitung <br>
