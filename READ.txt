@@ -1,4 +1,0 @@
-Necessary for the use of Binger.
-
-Validation Key for Binger:
-ceb9fe41da484982a8c2d8dbb410690f
