@@ -6,9 +6,9 @@ Künstliche Intelligenz und Cultural Heritage <br>
 Dr. Jan Wieners <br>
 <b>
 
-                Künstliche Intelligenz in Aktion: Geschlechterklassifikation von Statuen mit Tensorflow
+               Künstliche Intelligenz in Aktion: Geschlechterklassifikation von Statuen mit Tensorflow
 
-	                          Marco Zeyen, Katjana Johag, Saim Simsek, Christoph Alexander
+	                    Marco Zeyen, Katjana Johag, Saim Simsek, Christoph Alexander
 
 </b>
 
