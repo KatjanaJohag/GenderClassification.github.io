@@ -1,11 +1,16 @@
-# GenderClassification.github.io
-Repository für unser Projekt: Gender Classification of Figurines 
+# Gender Classification of Figurines
 
-Seminar: Künstliche Intelligenz und Cultural Heritage 
+Universität zu Köln <br>
+Historisch-Kulturwissenschaftliche Informationsverarbeitung <br>
+Künstliche Intelligenz und Cultural Heritage <br>
+Dr. Jan Wieners <br>
+<b>
 
-Dozent: Dr. Jan Wieners
+                Künstliche Intelligenz in Aktion: Geschlechterklassifikation von Statuen mit Tensorflow
 
-Erstellt von: Katjana Johag, Marco Zeyen, Saim Kaan Simsek, Christoph Alexander
+	                          Marco Zeyen, Katjana Johag, Saim Simsek, Christoph Alexander
+
+</b>
 
 
 Die Künstliche Intelligenz untersucht Prozesse um Informationen zu verarbeiten, die Fähigkeiten menschlicher Intelligenz voraussetzen. Ziel der Forschung im Rahmen der künstlichen Intelligenz ist es, menschliche Intelligenz in einer Maschine zu implementieren. 
